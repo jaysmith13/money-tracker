@@ -9,14 +9,10 @@
 
 Run the following commands from your terminal:
 
-1) `git clone https://github.com/floranguyen0/mmas-money-tracker` to clone this repository 
+1) `git clone https://github.com/jaysmith13/money-tracker)` to clone this repository 
 
 2) `flutter pub get` in the project root directory to install all the required dependencies.
 
-
-## Download MMAS at:
-
-https://apps.apple.com/vn/app/mmas-money-tracker/id1582638369
 
 
 ## Screenshots
